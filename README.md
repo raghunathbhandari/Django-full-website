@@ -25,7 +25,7 @@ A Brief example for sample website with below points
 
 ## Deployment
 
-To start this project run below commands on your terminal
+Usefull Commands for Project creation, Project Start, Django Install, Environment Creation
 
 ```bash
   
